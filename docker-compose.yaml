@@ -1,0 +1,8 @@
+---
+version: '2.2'
+services:
+  shinobi:
+    build:
+      context: .
+    ports:
+      - 8080:8080
