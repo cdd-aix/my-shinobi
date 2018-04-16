@@ -1,0 +1,12 @@
+{
+    "apps": [
+	{
+	    "name": "camera",
+	    "script": "./camera.js"
+	},
+	{
+	    "name": "cron",
+	    "script": "./cron.js"
+	}
+    ]
+}
